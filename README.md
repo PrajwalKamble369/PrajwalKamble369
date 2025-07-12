@@ -17,7 +17,7 @@ I didn’t start in tech — I made my way into data science through grit, curio
 - Adding CSV support for batch predictions  
 - Learning deployment and automation
 
-## 📈 Stats & Activity
+<!-- ## 📈 Stats & Activity -->
 
 <!-- ![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalKamble369&show_icons=true&theme=github_dark) -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrajwalKamble369&theme=github-dark) -->

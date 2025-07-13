@@ -18,10 +18,10 @@ I didn’t start in tech — I made my way into data science through grit, curio
 - Learning deployment and automation
 - Exploring Deep Learning concepts and building Neural Network models
 
-## 📈 Stats & Activity -->
+<!-- ## 📈 Stats & Activity -->
 
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalKamble369&show_icons=true&theme=github_dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrajwalKamble369&theme=github-dark) 
+<!-- ![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalKamble369&show_icons=true&theme=github_dark) ->>
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PrajwalKamble369&theme=github-dark) -->
 
 ---
 

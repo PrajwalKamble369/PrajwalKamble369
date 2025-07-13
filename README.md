@@ -16,6 +16,7 @@ I didn’t start in tech — I made my way into data science through grit, curio
 - Building ML apps with user-friendly interfaces  
 - Adding CSV support for batch predictions  
 - Learning deployment and automation
+- Exploring Deep Learning concepts and building Neural Network models
 
 ## 📈 Stats & Activity -->
 

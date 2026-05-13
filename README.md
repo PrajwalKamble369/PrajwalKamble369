@@ -32,6 +32,12 @@ end-to-end — from model training to production APIs.
 
 ---
 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/PrajwalKamble369)
+
+Daily consistency 🚀
+
+---
+
 📫 Want to collaborate, give feedback, or just say hi?
 Reach me at: prajwal17022000@gmail.com
 

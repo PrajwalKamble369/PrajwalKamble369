@@ -28,7 +28,7 @@ end-to-end — from model training to production APIs.
 
 ## 📈 Stats & Activity
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalKamble369&theme=dark&hide_border=true) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalKamble369&theme=dark&hide_border=true)
 
 ---
 

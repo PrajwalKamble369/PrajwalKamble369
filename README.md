@@ -30,11 +30,6 @@ end-to-end — from model training to production APIs.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalKamble369&theme=dark&hide_border=true)
 
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/PrajwalKamble369)
-
-Daily consistency 🚀
 
 ---
 

@@ -26,12 +26,12 @@ end-to-end — from model training to production APIs.
 
 ---
 
-<!-- ## 📈 Stats & Activity -->
+## 📈 Stats & Activity
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalKamble369&theme=dark&hide_border=true) -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalKamble369&theme=dark&hide_border=true)
 
 
-<!-- ---  -->
+--- 
 
 📫 Want to collaborate, give feedback, or just say hi?
 Reach me at: prajwal17022000@gmail.com

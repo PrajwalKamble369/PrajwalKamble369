@@ -28,10 +28,7 @@ end-to-end — from model training to production APIs.
 
 ## 📈 Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalKamble369&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalKamble369&layout=compact&theme=dark&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=PrajwalKamble369&theme=dark&hide_border=true)
 
 --- 
 

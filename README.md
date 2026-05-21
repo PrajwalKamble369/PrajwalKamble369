@@ -28,7 +28,14 @@ end-to-end — from model training to production APIs.
 
 ## 📈 Stats & Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=PrajwalKamble369&theme=dark&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=PrajwalKamble369&color=blue&style=flat-square&label=Profile+Views)
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-GenAI-121212?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?style=flat-square&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
+![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?style=flat-square&logo=googlecloud)
 
 --- 
 
